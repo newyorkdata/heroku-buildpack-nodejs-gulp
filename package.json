@@ -1,0 +1,22 @@
+{
+  "name": "heroku-buildpack-nodejs-gulp",
+  "version": "1.0.1",
+  "description": "Heroku Buildpack for Node.js and gulp.js ========================================",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newyorkdata/heroku-buildpack-nodejs-gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newyorkdata/heroku-buildpack-nodejs-gulp/issues"
+  },
+  "homepage": "https://github.com/newyorkdata/heroku-buildpack-nodejs-gulp#readme"
+}
